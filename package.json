@@ -31,6 +31,6 @@
     "standard": "^10.0.3"
   },
   "bin": {
-    "grammarlint": "index.js"
+    "oembed2jekyll": "index.js"
   }
 }
