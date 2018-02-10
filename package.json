@@ -1,7 +1,7 @@
 {
   "name": "tumblr2jekyll",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts an RSS feed of Oembed-ready posts into Jekyll posts.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/johnjones4/tumblr2jekyll.git"
   },
   "author": "John Jones <johnjones4@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnjones4/tumblr2jekyll/issues"
   },
