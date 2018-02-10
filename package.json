@@ -1,6 +1,6 @@
 {
   "name": "oembed2jekyll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts an RSS feed of Oembed-ready posts into Jekyll posts.",
   "main": "index.js",
   "scripts": {
