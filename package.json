@@ -1,5 +1,5 @@
 {
-  "name": "tumblr2jekyll",
+  "name": "oembed2jekyll",
   "version": "1.0.0",
   "description": "Converts an RSS feed of Oembed-ready posts into Jekyll posts.",
   "main": "index.js",
